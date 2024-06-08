@@ -166,7 +166,6 @@ public class Main {
 //        for (int i = 0; i < numberOfStudents - 1; i++) {
 //            for (int j = 0; j < numberOfStudents - 1 - i; j++) {
 //                if (students[j].score < students[j + 1].score) {
-//                    // Swap students[j] and students[j + 1]
 //                    Student temp = students[j];
 //                    students[j] = students[j + 1];
 //                    students[j + 1] = temp;
